@@ -1,0 +1,24 @@
+{
+  "name": "scalyr",
+  "homepage": "https://github.com/sudarsangp/angular",
+  "authors": [
+    "Steven Czerwinski <czerwin@scalyr.com>"
+  ],
+  "description": "optimization directives",
+  "main": "scalyr.js",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">1.2.0"
+  },
+}
